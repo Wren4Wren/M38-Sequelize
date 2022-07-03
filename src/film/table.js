@@ -16,6 +16,7 @@ const Film = sequelize.define("Film", {
   },
 });
 
+//  #Stretch_Goal
 // const User = sequelize.define("User", {
 //   userName: {
 //     type: DataTypes.STRING,
